@@ -4,7 +4,7 @@
   "description": "Fancy Form UI From Scratch - HTML, CSS3, JS & Sass",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "node-sass -w scss/ -o css/"
   },
   "repository": {
     "type": "git",

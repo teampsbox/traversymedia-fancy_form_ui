@@ -1,0 +1,22 @@
+{
+  "name": "traversymedia-fancy_form_ui",
+  "version": "1.0.0",
+  "description": "Fancy Form UI From Scratch - HTML, CSS3, JS & Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teampsbox/traversymedia-fancy_form_ui.git"
+  },
+  "author": "Keira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teampsbox/traversymedia-fancy_form_ui/issues"
+  },
+  "homepage": "https://github.com/teampsbox/traversymedia-fancy_form_ui#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
